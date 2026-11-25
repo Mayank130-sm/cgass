@@ -1,0 +1,11 @@
+Project Title
+FlavorGraph: Understanding and Generating Recipes with ML
+Description
+This project applies machine learning and network analysis to computational gastronomy. We build a knowledge graph linking recipes, ingredients, cuisines and flavor compounds, and use it to study food-pairing patterns across cuisines. We then train models for cuisine prediction and ingredient substitution, and combine everything into an interactive web app that also generates and scores novel recipe ideas.
+Deliverable 1
+Recipe and Flavor Knowledge Graph with Analysis: a cleaned dataset of recipes, ingredients, cuisines and flavor compounds, built into a weighted ingredient graph. It includes an analysis of food-pairing patterns, ingredient communities and cuisine similarity, with interactive network visualisations.
+Deliverable 2
+ML Models for Cuisine Prediction and Ingredient Substitution: a cuisine classifier (TF-IDF + logistic regression baseline, compared against gradient boosting or a neural network) and an embedding-based ingredient substitution model (Word2Vec/Node2Vec). Both are evaluated, using accuracy and macro-F1 for classification and a small human rating study for substitutions.
+Deliverable 3
+FlavorGraph Web App with Recipe Generation: an interactive Streamlit/Flask app where users enter ingredients to get a predicted cuisine and substitution suggestions. It also generates novel ingredient combinations or recipe ideas, ranked by a flavor-compatibility score derived from the knowledge graph.
+

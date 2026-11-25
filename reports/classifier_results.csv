@@ -1,0 +1,6 @@
+,accuracy,accuracy,macro_F1,macro_F1
+split,test,val,test,val
+model,,,,
+TF-IDF + LinearSVC,0.7822,0.7907,0.7009,0.7106
+TF-IDF + LogReg (baseline),0.7744,0.7803,0.6927,0.6999
+TF-IDF + XGBoost,0.7582,0.7622,0.6755,0.6759

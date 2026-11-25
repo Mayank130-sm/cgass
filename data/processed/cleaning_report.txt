@@ -1,0 +1,6 @@
+recipes kept: 39752 / 39774
+raw ingredient strings: 6714 -> cleaned unique: 5565
+match rate (unique ingredients): 2927/5565 = 52.6%
+match rate (by occurrence):      327314/426305 = 76.8%
+match types: {'suffix': 1354, 'contains': 1184, 'exact': 365, 'alias': 13, 'fuzzy': 11}
+top 40 unmatched (name, count): [('salt', 18050), ('water', 8679), ('kosher salt', 3113), ('oil', 1970), ('baking powder', 1738), ('jalapeno chilies', 1730), ('cooking spray', 1490), ('canola oil', 1223), ('sauce', 1126), ('salsa', 973), ('baking soda', 942), ('sea salt', 940), ('green chilies', 932), ('garam masala', 926), ('mayonaise', 852), ('curry powder', 709), ('worcestershire sauce', 702), ('coarse salt', 578), ('tofu', 547), ('caper', 541), ('allspice', 519), ('mirin', 503), ('eggplant', 501), ('cooking oil', 483), ('beansprouts', 454), ('black peppercorn', 453), ('hoisin sauce', 429), ('confectioner sugar', 395), ('italian seasoning', 395), ('cajun seasoning', 377), ('chile', 376), ('cornmeal', 368), ('half half', 364), ('pasta', 361), ('smoked paprika', 357), ('boiling water', 350), ('pinenuts', 348), ('spaghetti', 342), ('green chile', 323), ('tomatillo', 322)]
